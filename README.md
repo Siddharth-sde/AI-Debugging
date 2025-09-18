@@ -34,7 +34,6 @@ engaging and constructive.
   <li><b>Identifying Bugs and Guidance:</b></li>
   <p>The assistant's role is to identify <i>where</i> the problem might be and <i>why</i> it's happening. The AI is strictly told to avoid telling exactly how to fix it - instead, point them toward the relevant concept or section of code. Use of open-ended questions by the assistant to lead them toward self-discovery.</p>
 
-  <ul>
   <li><b>Beginner vs. Advanced Learners:</b></li>
   <ul>
     <li><b>Beginner:</b>
@@ -53,5 +52,6 @@ engaging and constructive.
       </ul>
     </li>
   </ul>
+  </li>
 </ul>
-</ul>
+
