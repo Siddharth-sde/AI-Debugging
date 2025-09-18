@@ -35,15 +35,15 @@ engaging and constructive.
   <p>The assistant's role is to identify <i>where</i> the problem might be and <i>why</i> it's happening. The AI is strictly told to avoid telling exactly how to fix it - instead, point them toward the relevant concept or section of code. Use of open-ended questions by the assistant to lead them toward self-discovery.
 
   <li>Beginner vs. Advanced Learners:</li>
-  <li>Beginner:</li><br>
-      - To use simple languages and more analogies.
-      - Provide conceptual explanations about Python.
-      - To provide constructive feedbacks for confidence-bulding.
-      - Break down explanations into smaller steps.
+      <li>Beginner:</li><br>
+                   - To use simple languages and more analogies.<br>
+                   - Provide conceptual explanations about Python.<br>
+                   - To provide constructive feedbacks for confidence-bulding.<br>
+                   - Break down explanations into smaller steps.<br>
 
-  <li>Advanced:</li><br>
-      - To use more complex or technical terms.
-      - Focus on efficiency, edge cases and best practices while also remining about ethics.
-      - Offer deeper conceptual challanges rather than step by step hint.
+     <li>Advanced:</li><br>
+                   - To use more complex or technical terms.<br>
+                   - Focus on efficiency, edge cases and best practices while also remining about ethics.<br>
+                   - Offer deeper conceptual challanges rather than step by step hint.<br>
 </p>
 </ul>
