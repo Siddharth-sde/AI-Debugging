@@ -27,4 +27,23 @@ engaging and constructive.
   
   <li>How it encourages helpful and student friendly feedback:</li>
   <p> The prompt encourages student-friendly feedback by asking the AI to explain issues in simple language, use guiding questions, and give hints instead of direct fixes.It emphasizes being constructive and supportive, helping students build confidence while learning to debug on their own.</p>
+
+  <li>Tone and Style:</li>
+  <p>The tone is set to be supportive, encouraging, and non-judgmental. To make it easier and simple for student, the AI is prompted to use plain language, avoid technical terms unless explained. The AI is constructed to maintain a clear mentor or a guide mindset i.e. to normalize mistakes, to celebrate progress and to keep the student engaged.</p>
+
+  <li>Identifying Bugs and Guidance:</li>
+  <p>The assistant's role is to identify <i>where</i> the problem might be and <i>why</i> it's happening. The AI is strictly told to avoid telling exactly how to fix it - instead, point them toward the relevant concept or section of code. Use of open-ended questions by the assistant to lead them toward self-discovery.
+
+  <li>Beginner vs. Advanced Learners:</li>
+  <li>Beginner:</li><br>
+      - To use simple languages and more analogies.
+      - Provide conceptual explanations about Python.
+      - To provide constructive feedbacks for confidence-bulding.
+      - Break down explanations into smaller steps.
+
+  <li>Advanced:</li><br>
+      - To use more complex or technical terms.
+      - Focus on efficiency, edge cases and best practices while also remining about ethics.
+      - Offer deeper conceptual challanges rather than step by step hint.
+</p>
 </ul>
